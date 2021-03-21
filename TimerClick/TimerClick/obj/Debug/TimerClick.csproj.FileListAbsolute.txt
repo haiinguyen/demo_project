@@ -1,0 +1,9 @@
+E:\LUUDULIEUSINHVIEN\21-3-2021\TimerClick\TimerClick\bin\Debug\TimerClick.exe.config
+E:\LUUDULIEUSINHVIEN\21-3-2021\TimerClick\TimerClick\bin\Debug\TimerClick.exe
+E:\LUUDULIEUSINHVIEN\21-3-2021\TimerClick\TimerClick\bin\Debug\TimerClick.pdb
+E:\LUUDULIEUSINHVIEN\21-3-2021\TimerClick\TimerClick\obj\Debug\TimerClick.csprojResolveAssemblyReference.cache
+E:\LUUDULIEUSINHVIEN\21-3-2021\TimerClick\TimerClick\obj\Debug\TimerClick.Form1.resources
+E:\LUUDULIEUSINHVIEN\21-3-2021\TimerClick\TimerClick\obj\Debug\TimerClick.Properties.Resources.resources
+E:\LUUDULIEUSINHVIEN\21-3-2021\TimerClick\TimerClick\obj\Debug\TimerClick.csproj.GenerateResource.Cache
+E:\LUUDULIEUSINHVIEN\21-3-2021\TimerClick\TimerClick\obj\Debug\TimerClick.exe
+E:\LUUDULIEUSINHVIEN\21-3-2021\TimerClick\TimerClick\obj\Debug\TimerClick.pdb
