@@ -7,3 +7,12 @@ E:\LUUDULIEUSINHVIEN\21-3-2021\TimerClick\TimerClick\obj\Debug\TimerClick.Proper
 E:\LUUDULIEUSINHVIEN\21-3-2021\TimerClick\TimerClick\obj\Debug\TimerClick.csproj.GenerateResource.Cache
 E:\LUUDULIEUSINHVIEN\21-3-2021\TimerClick\TimerClick\obj\Debug\TimerClick.exe
 E:\LUUDULIEUSINHVIEN\21-3-2021\TimerClick\TimerClick\obj\Debug\TimerClick.pdb
+C:\Users\Administrator\Desktop\demo_project\TimerClick\TimerClick\bin\Debug\TimerClick.exe.config
+C:\Users\Administrator\Desktop\demo_project\TimerClick\TimerClick\obj\Debug\TimerClick.exe
+C:\Users\Administrator\Desktop\demo_project\TimerClick\TimerClick\obj\Debug\TimerClick.pdb
+C:\Users\Administrator\Desktop\demo_project\TimerClick\TimerClick\bin\Debug\TimerClick.exe
+C:\Users\Administrator\Desktop\demo_project\TimerClick\TimerClick\bin\Debug\TimerClick.pdb
+C:\Users\Administrator\Desktop\demo_project\TimerClick\TimerClick\obj\Debug\TimerClick.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\demo_project\TimerClick\TimerClick\obj\Debug\TimerClick.Form1.resources
+C:\Users\Administrator\Desktop\demo_project\TimerClick\TimerClick\obj\Debug\TimerClick.Properties.Resources.resources
+C:\Users\Administrator\Desktop\demo_project\TimerClick\TimerClick\obj\Debug\TimerClick.csproj.GenerateResource.Cache
